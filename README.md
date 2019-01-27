@@ -1,15 +1,14 @@
 # Global Sacred Sites
 This project is simple python web crawler application that can help extract [global sacred sites](https://sacredsites.com/) (city name, latitude, longtitude) to spreedsheet.
 
-## Get Started
 
-### Prerequistes
+## Requirements
 
-```Python```
-
-```
-pip install -r requirements.txt
-```
+- Python
+- Install all the depencies needed
+    ```
+    pip install -r requirements.txt
+    ```
 
 ## Running the test
 
