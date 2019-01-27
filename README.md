@@ -25,7 +25,7 @@ Then it will generate a spreetsheet named "global_sacred_sites.xls"
 ### Data snippet
 
 |City| Latitude|Longtitude|
-|---|---|---|---|---|
+|---|---|---|
 |Aachen|50.77471932949412|6.0839201712722115|
 |Abaj Takalik |14.64604|-91.735668|
 |Abdullah Shah Ghazi|24.81030411|67.03061335|
